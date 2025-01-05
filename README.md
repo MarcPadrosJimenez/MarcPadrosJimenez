@@ -1,8 +1,8 @@
 # 💫 About Me:
 I am a Computer Engineer with experience in cloud computing, AI, DevOps, machine learning, JavaScript, C#, Python, SQL,.NET, Node.js and Agile methodologies.<br> 
 I am proactive, analytical a team player and a fluent learner. I have an advanced level of English and an intermediate level of French.<br>
-My goal is to keep learning and evolving in order to scale within a company. 
-I encourage you to check my resume in my LinkedIn profile.
+My goal is to keep learning and evolving in order to scale within a company.<br> 
+I encourage you to check my resume in my LinkedIn profile.<br>
 If I'm a good fit for your company or I catched your attention this far, I would be glad to keep in touch. 
 
 # 💻 Tech Stack:
